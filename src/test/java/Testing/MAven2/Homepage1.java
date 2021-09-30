@@ -29,6 +29,7 @@ public class Homepage1 {
 			log.info("assigning driver is successful");
 		  cmn.openBrowserAndNavigateTo();
 		    log.info("browser is opening");
+		    log.info("saicharan");
 		    
 			} catch (IOException e) {
 			// TODO Auto-generated catch block
