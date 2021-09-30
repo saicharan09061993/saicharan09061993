@@ -30,6 +30,7 @@ public class Homepage1 {
 		  cmn.openBrowserAndNavigateTo();
 		    log.info("browser is opening");
 		    log.info("saicharan");
+		    log.info("santhos");
 		    
 			} catch (IOException e) {
 			// TODO Auto-generated catch block
